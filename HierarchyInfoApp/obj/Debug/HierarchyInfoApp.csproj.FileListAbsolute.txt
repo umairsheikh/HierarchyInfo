@@ -10,3 +10,4 @@ C:\Users\Administrator\Downloads\EasyTreeView\EasyTreeView\EasyTreeView\obj\Debu
 C:\Users\Administrator\Downloads\EasyTreeView\EasyTreeView\EasyTreeView\obj\Debug\HierarchyInfoApp.csproj.GenerateResource.Cache
 C:\Users\Administrator\Downloads\EasyTreeView\EasyTreeView\EasyTreeView\obj\Debug\EasyTreeView.exe
 C:\Users\Administrator\Downloads\EasyTreeView\EasyTreeView\EasyTreeView\obj\Debug\EasyTreeView.pdb
+C:\Users\Administrator\Documents\HierarchyInfo\HierarchyInfoApp\bin\Debug\EasyTreeView.exe.config
